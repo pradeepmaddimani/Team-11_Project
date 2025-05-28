@@ -1,7 +1,11 @@
  🔹 Project Name: Event Website
+ 
 🔸 Section: Schedule Page
+
 👥 Team: Team-11
+
 👤 Your Role: Schedule Section Developer
+
 📖 Description
 In this part of the Event Website project, I developed the “Schedule” page using HTML and CSS. This page helps visitors understand the timing and sequence of sessions, speaker talks, and other event activities.
 
